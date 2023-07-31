@@ -1,3 +1,3 @@
 # alurabooks
 
-Projeto criando no curso de responsividade da Alura
+Projeto criado no curso de responsividade da Alura
